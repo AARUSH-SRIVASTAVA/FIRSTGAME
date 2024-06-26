@@ -6,7 +6,7 @@
 
 # CREDITS:
 - CHANNEL_NAME: {dafluffypotato}
-- TUTORIAL_LINK:{https://www.youtube.com/watch?v=2gABYM5M0ww}
+- TUTORIAL_LINK: {https://www.youtube.com/watch?v=2gABYM5M0ww}
 
 # HOW TO PLAY:
 - **Move Right:** Press the right arrow key or `D`.
